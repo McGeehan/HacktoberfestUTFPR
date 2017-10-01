@@ -22,4 +22,11 @@ O intuito desse repositório é que os alunos do curso de Engenharia de Software
 
 Criei algumas [issues](https://github.com/cassianomon/HacktoberfestUTFPR/issues) de exemplo no repositório. Podem ser criadas mais issues e fazer os pull requests sobre elas, ou somente fazer os pull requests hehe.
 
-Qualquer dúvida podem me mandar um e-mail: [cassianomontanari@gmail.com](mailto:cassianomontanari@gmail.com).
+#### Como contribuir com projetos no GitHub
+
+Contribuindo para projetos open source no github mesmo sendo iniciante - [clique aqui](https://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/)
+
+Contribuindo em projetos open source com o GitHub - [clique aqui](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+
+##### Dúvidas
+Qualquer dúvida podem me mandar um e-mail: [cassianomontanari@gmail.com](mailto:cassianomontanari@gmail..com)
