@@ -1,4 +1,5 @@
 # Hacktoberfest UTFPR 2017
+
 ## Sobre o Hacktoberfest
 
 Hacktoberfest é um evento que acontece durante o mês de outubro, o evento celebra a filosofia de softwares de código aberto, o evento é uma parceria da Digital Ocean com o GitHub.
@@ -26,4 +27,5 @@ Contribuindo para projetos open source no github mesmo sendo iniciante - [clique
 Contribuindo em projetos open source com o GitHub - [clique aqui](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
 
 ##### Dúvidas
+
 Qualquer dúvida podem me mandar um e-mail: [cassianomontanari@gmail.com](mailto:cassianomontanari@gmail..com)
