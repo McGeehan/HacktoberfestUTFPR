@@ -1,7 +1,4 @@
 # Hacktoberfest UTFPR 2017
-
-Projeto para os acadêmicos do curso de Engenharia de Software da UTFPR - Dois Vizinhos.
-
 ## Sobre o Hacktoberfest
 
 Hacktoberfest é um evento que acontece durante o mês de outubro, o evento celebra a filosofia de softwares de código aberto, o evento é uma parceria da Digital Ocean com o GitHub.
