@@ -16,8 +16,8 @@ Para ganhar uma camiseta edição limitada do Hacktoberfest, você precisa se ca
 
 ### Finalidade deste repositório
 
-O intuito desse repositório é que os alunos do curso de Engenharia de Software da UTFPR de Dois Vizinhos que tenham interesse em participar do evento possam contribuir com algo, pode ser montando um arquivo HTML, CSS, Javascript, uma logo, integrar um back-end, fazer uma documentação, traduzir alguma documentação que está estudando, e etc...
-
+O intuito desse repositório é que os alunos do curso de Engenharia de Software da UTFPR de Dois Vizinhos que tenham interesse em participar do evento possam contribuir com algo, pode ser montando um arquivo HTML, CSS, Javascript, uma logo, integrar um back-end, fazer uma documentação, traduzir alguma documentação que está estudando, colocar uma pasta com algum algoritmo de alguma matéria que fez ou precisa de ajuda para resolver (nesse  caso abra uma issue descrevendo a necessidade) e etc...
+ 
 Criei algumas [issues](https://github.com/cassianomon/HacktoberfestUTFPR/issues) de exemplo no repositório. Podem ser criadas mais issues e fazer os pull requests sobre elas, ou somente fazer os pull requests hehe.
 
 #### Como contribuir com projetos no GitHub
