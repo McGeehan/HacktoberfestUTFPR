@@ -26,6 +26,10 @@ Contribuindo para projetos open source no github mesmo sendo iniciante - [clique
 
 Contribuindo em projetos open source com o GitHub - [clique aqui](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
 
+##### Ideia
+
+Ao resolver uma issue, abra outra com algo que gostaria de ver ou aprender a fazer, como o código fonte vai ficar disponível aqui, automaticamente o que você fizer vai ensinar alguém que não sabe, e o que os outros fizerem, você vai poder ver como faz.
+
 ##### Dúvidas
 
 Qualquer dúvida podem me mandar um e-mail: [cassianomontanari@gmail.com](mailto:cassianomontanari@gmail..com)
